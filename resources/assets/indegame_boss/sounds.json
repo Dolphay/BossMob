@@ -1,0 +1,14 @@
+{
+  "joystick": {
+    "category": "entity",
+    "sounds": [ "indegame_boss:boss/joystick" ]
+  },
+  "wolves": {
+    "category": "entity",
+    "sounds": [ "indegame_boss:boss/wolf" ]
+  },
+  "parrots": {
+    "category": "entity",
+    "sounds": [ "indegame_boss:boss/parrot" ]
+  }
+}
